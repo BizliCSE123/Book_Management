@@ -19,40 +19,5 @@
         "available": false,
         "pages": 457,
         "isbn": 9785267006323
-    },
-    {
-        "title": "abc",
-        "author": "humayan",
-        "available": "true",
-        "pages": "345",
-        "isbn": "12890"
-    },
-    {
-        "title": "abcxs",
-        "author": "Zafor Iqbal",
-        "available": "true",
-        "pages": "345",
-        "isbn": "1289089"
-    },
-    {
-        "title": "a",
-        "author": "George Orwell",
-        "available": "true",
-        "pages": "456",
-        "isbn": "123"
-    },
-    {
-        "title": "a",
-        "author": "George Orwell",
-        "available": "true",
-        "pages": "456",
-        "isbn": "123"
-    },
-    {
-        "title": "a",
-        "author": "George Orwell",
-        "available": "true",
-        "pages": "456",
-        "isbn": "123"
     }
 ]
